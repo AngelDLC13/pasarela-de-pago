@@ -15,7 +15,7 @@ app.use(express.static("public"));
 // ========================
 // CONFIGURACIÓN PAYPHONE
 // ========================
-const PAYPHONE_TOKEN = "mFfSGcFr1KtUZcFxv2OMkMGKoUmzLS_0RF_MxukaSL9mEY3FwpOiTN8mIHCSOGiwFCkQSVtgpWVxGHMNaAZ5AcS1_q7YT2DO1gso_dJggzGxRBmQr7updczcJz7gh66ZcRyznRaNnLnF7g0vcuFeUamaC1WyuaVmJVyDUhVD-JCHSeL0dGTOSIZJkfGXPgyBr0W7HEkuVLOy7CAetPuNic4M7dsPhH-LwzbJCN5VgY5uTzld5q-d97skxm9Ifto6ljWVogHMyVk2nSkynm-ae7SlQ4xzlLwhq9rPv170d3jf1x6mhbJHpbAhTdLi7r6nIB_7Ig";
+const PAYPHONE_TOKEN = "NR79lzZf_Y87SPQYllHAgfRvab6qNL1gIazNi4VAhUmlS50WVz7JgDIbYpgZj6B7vrU7fQPWErn0DFtK3KB-Ka2ZQJ2OTkRf5X8dKi_Hw901uSSw0buwLzVrk1D3MYOY3dA5wyeRWoZXtZMxBTPvSqEZZ0fyf5C7z7Dt44rRkXwCEubNtDLekbpIupCLFKSLilO6ELTs4deixmzPu4m7lHB_dIMvvrf4nD-l40tXn1xpE7PXU5b1rHay11YfxcMfXFuOWHp4L9CsEG7djtV2DHDjXXepNXkuixywcTiXYBcqK3CMLNuBfY9fhQnxsXNb155UXGnV9x6Emh9zQo7Wh83lwIE";
 
 // ========================
 // CREAR PAGO (PREPARE)
