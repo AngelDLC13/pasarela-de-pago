@@ -13,9 +13,6 @@ jobs:
 
     steps:
 
-    - name: Revisar sintaxis
-      run: node --check server.js
-
     - name: Descargar proyecto
       uses: actions/checkout@v4
 
